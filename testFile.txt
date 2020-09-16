@@ -1,0 +1,6 @@
+var x;
+var y;
+var lasflalkfa;
+read x;
+print y;
+lasflalkfa = x + y - 42 / x * 1200;

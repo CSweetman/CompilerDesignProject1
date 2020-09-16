@@ -1,0 +1,19 @@
+import java_cup.runtime.*;
+
+terminal VAR;
+terminal SEMI;
+terminal EQ;
+terminal READ;
+terminal PRINT;
+terminal MULT;
+terminal DIV;
+terminal PLUS;
+terminal MINUS;
+
+termianl String ID;
+terminal int INTLIT;
+
+//------
+
+non terminal dummy;
+dummy ::= ;
